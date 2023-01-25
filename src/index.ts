@@ -74,3 +74,16 @@ const user: UserType = {
 };
 
 // user.id = 2; id es una propiedad de lectura, no se puede sobreescribir
+
+/* VOID (Vacio) 
+  Una funcion en js que no regrese nada tendrá un valor de undefined
+  con void podemos indicarle a Js que la funcion no regresa nada
+*/
+
+function isItVoid(): void {
+  // return 1
+  //Esto marcaria un error ya que se indicó que la funciona no retorna nada
+}
+
+const a = isItVoid();
+console.log("Is it void", a);

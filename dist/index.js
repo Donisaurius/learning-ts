@@ -9,4 +9,25 @@ function chanchitoFelij(config) {
 let animales = ["PERRO", "GATO", "Ave"];
 let numbers = [1, 2, 3];
 let checks = [true, false];
+let tuplas = [1, "Chanchin"];
+var Sizes;
+(function (Sizes) {
+    Sizes["Small"] = "sm";
+    Sizes["Medium"] = "md";
+    Sizes["Large"] = "lg";
+    Sizes["ExtraLarge"] = "xl";
+})(Sizes || (Sizes = {}));
+const user = {
+    id: 1,
+    name: "Donie",
+    size: Sizes.Small,
+    direction: {
+        street: "A",
+        number: 2,
+    },
+};
+function isItVoid() {
+}
+const a = isItVoid();
+console.log("Is it void", a);
 //# sourceMappingURL=index.js.map
