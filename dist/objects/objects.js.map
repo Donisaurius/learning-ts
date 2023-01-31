@@ -1,0 +1,1 @@
+{"version":3,"file":"objects.js","sourceRoot":"","sources":["../../src/objects/objects.ts"],"names":[],"mappings":";AAAA,CAAC,GAAG,EAAE;IAUJ,IAAI,KAAK,GAAa;QACpB,IAAI,EAAE,OAAO;QACb,GAAG,EAAE,EAAE;QACP,MAAM,EAAE,CAAC,YAAY,EAAE,qBAAqB,CAAC;QAC7C,OAAO,EAAE;YACP,OAAO,IAAI,CAAC,IAAI,IAAI,SAAS,CAAC;QAChC,CAAC;KACF,CAAC;AAcJ,CAAC,CAAC,EAAE,CAAC"}

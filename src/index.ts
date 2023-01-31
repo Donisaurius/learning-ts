@@ -85,5 +85,5 @@ function isItVoid(): void {
   //Esto marcaria un error ya que se indicó que la funciona no retorna nada
 }
 
-const a = isItVoid();
-console.log("Is it void", a);
+// const a = isItVoid();
+// console.log("Is it void", a);

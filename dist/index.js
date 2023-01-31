@@ -28,6 +28,4 @@ const user = {
 };
 function isItVoid() {
 }
-const a = isItVoid();
-console.log("Is it void", a);
 //# sourceMappingURL=index.js.map

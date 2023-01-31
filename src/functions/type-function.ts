@@ -13,6 +13,6 @@
 
   //Ts infiere los tipos despues de la asignacion
 
-  myFuntion = addNumbers;
+  // myFuntion = addNumbers;
   // myFuntion = greet;
 })();
